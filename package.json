@@ -11,7 +11,8 @@
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@types/node": "^18.16.19",
-    "nuxt": "^3.6.5"
+    "nuxt": "^3.6.5",
+    "typescript": "^4.9.5"
   },
   "dependencies": {
     "@mdi/font": "^7.2.96",
